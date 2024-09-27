@@ -55,4 +55,4 @@ The main objective of this project is to build a decision tree classifier to pre
 ## How to Run the Notebook
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/deepjasani7/PRODIGY_DS_03/tree/main
